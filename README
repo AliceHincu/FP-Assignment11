@@ -1,0 +1,6 @@
+Inheritance
+
+StartGame -> UI, GUI, configparser
+UI & GUI -> Game, EasyMode, MediumMode, HardMode
+EasyMode, MediumMode, HardMode -> Game
+Game -> BoardJSON
